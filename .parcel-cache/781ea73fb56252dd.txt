@@ -1,18 +1,14 @@
-17
-38D:\jirengu\nav-1\dist\add.d570d091.png133026661515809513 0
-21D:\jirengu\nav-1\dist133027606880261049 1
+13
+21D:\jirengu\nav-1\dist133028759109389161 1
 22D:\jirengu\nav-1\image133026203378809291 1
 31D:\jirengu\nav-1\src\index.html133027538508920752 0
 30D:\jirengu\nav-1\src\style.css133027585462441643 0
-20D:\jirengu\nav-1\src133026059336125410 1
-40D:\jirengu\nav-1\dist\index.0fd578fa.css133027606880204875 0
+20D:\jirengu\nav-1\src133027614554089898 1
+31D:\jirengu\nav-1\src\.gitignore133027615354508331 0
+40D:\jirengu\nav-1\dist\index.0fd578fa.css133028756933234248 0
 28D:\jirengu\nav-1\src\main.js133027592009743163 0
 30D:\jirengu\nav-1\image\add.png133026201576937445 0
-44D:\jirengu\nav-1\dist\index.0fd578fa.css.map133027606880251064 0
-40D:\jirengu\nav-1\dist\index.2cdaf7bc.css133027585463278810 0
-44D:\jirengu\nav-1\dist\index.2cdaf7bc.css.map133027585463288505 0
-39D:\jirengu\nav-1\dist\index.380db8e2.js133027606880204875 0
-43D:\jirengu\nav-1\dist\index.380db8e2.js.map133027606880251064 0
-39D:\jirengu\nav-1\dist\index.de158e3a.js133027592010942785 0
-43D:\jirengu\nav-1\dist\index.de158e3a.js.map133027592010972723 0
-32D:\jirengu\nav-1\dist\index.html133027606880204875 0
+44D:\jirengu\nav-1\dist\index.0fd578fa.css.map133028756933294109 0
+39D:\jirengu\nav-1\dist\index.380db8e2.js133028756933234248 0
+43D:\jirengu\nav-1\dist\index.380db8e2.js.map133028756933294109 0
+32D:\jirengu\nav-1\dist\index.html133028759109379564 0
