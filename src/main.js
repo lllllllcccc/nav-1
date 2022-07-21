@@ -37,16 +37,17 @@ const render = () => {
 render()
 $('.addButton')
     .on('click', () => {
-        let url = window.prompt("请问你要添加的网址是啥？")
-        if (url.indexOf('http') !== 0) {
-            url = 'https://' + url;
+        let url = window.prompt('请输入以 https 或 http 开头的网址')
+        if (url.indexOf('http') === 0) {
+            siteList.push({
+                logo: simplifyUrl(url)[0].toUpperCase(),
+                url: url
+            })
+            localStorage.setItem('siteList', JSON.stringify(siteList))
+            render()
+        } else {
+            window.alert('添加失败，请输入以 https 或 http 开头的网址')
         }
-        hashMap.push({
-            logo: simplifyUrl(url)[0].toUpperCase(),
-            url: url
-        })
-        render()
-
     })
 window.onbeforeunload = () => {
     const string = JSON.stringify(hashMap)
